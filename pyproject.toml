@@ -13,6 +13,12 @@ jupyterlab = "^4.4.4"
 lightgbm = "^4.6.0"
 ipywidgets = "^8.1.7"
 optuna = "^4.4.0"
+cdt = "^0.6.0"
+torch = "^2.7.1"
+causal-learn = "^0.1.4.3"
+optuna-integration = "^4.4.0"
+tqdm-joblib = "^0.0.4"
+catboost = "^1.2.8"
 
 
 [build-system]
